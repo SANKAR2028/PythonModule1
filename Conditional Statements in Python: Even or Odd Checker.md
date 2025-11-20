@@ -27,5 +27,9 @@ else:
 
 
 <img width="1173" height="332" alt="image" src="https://github.com/user-attachments/assets/65686f3a-a0af-4113-947e-13277cc4587a" />
+
+
 ## Result
- Thus,the Python program to check whether the given number is **even** or **odd** using `if...else` statements is created successfully.
+
+
+Thus,the Python program to check whether the given number is **even** or **odd** using `if...else` statements is created successfully.
